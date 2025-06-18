@@ -20,6 +20,10 @@
 ## 📫 Reach Me
 - ✉️ Email: suryaomar323@gmail.com
 - 🌐 LinkedIn/Portfolio: www.linkedin.com/in/surya-omar-3538a527b
+- 🧑‍💻Leetcode:https://leetcode.com/u/Surya323/
+- 🧑‍💻GFG:https://www.geeksforgeeks.org/user/suryaomar323/
+- 🧑‍💻
+- 🧑‍💻
 - 
 
 ---
