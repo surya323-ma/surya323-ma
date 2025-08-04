@@ -2,9 +2,14 @@
    ![images](https://github.com/user-attachments/assets/66ea89e8-ed59-4d28-824c-f546fcb9fe01)
 
 #  👨‍💻 Hello World! I'm Surya Omar  
-
+- I'm passionate about uncovering insights from data and building intelligent systems that drive real-world impact.
 - 🎓 AI Enthusiast and Student with a passion for exploring the limitless possibilities of artificial intelligence.
 - 🧠 Constantly learning and challenging myself to solve real-world problems using machine learning and AI.
+- 🎯 **Data Scientist | Machine Learning Engineer | Problem Solver**
+- 📁 Always exploring end-to-end solutions: From data wrangling to model deployment
+- 🌱 Currently learning: MLOps and Generative AI
+
+
 
 ## 🛠 Skills
 - 🤖 Proficient in Python, TensorFlow, and Java .
