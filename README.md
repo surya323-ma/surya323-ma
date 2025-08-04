@@ -1,5 +1,10 @@
 # 👋 Hello World! I'm Surya Omar  
 
+
+![Uploading Right_Side.gif…]()
+
+
+
 - 🎓 AI Enthusiast and Student with a passion for exploring the limitless possibilities of artificial intelligence.
 - 🧠 Constantly learning and challenging myself to solve real-world problems using machine learning and AI.
 
