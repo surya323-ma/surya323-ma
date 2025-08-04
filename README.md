@@ -1,4 +1,6 @@
-# 👋 Hello World! I'm Surya Omar
+# 👋 Hello World! I'm Surya Omar  
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966](https://github.com/user-attachments/assets/e25d9cb2-bfce-43bc-a77e-cce32b9a8f9d)
+
 
 - 🎓 AI Enthusiast and Student with a passion for exploring the limitless possibilities of artificial intelligence.
 - 🧠 Constantly learning and challenging myself to solve real-world problems using machine learning and AI.
