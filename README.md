@@ -1,9 +1,8 @@
-# 👋 Hello World! I'm Surya Omar  
 
 
-![Uploading Right_Side.gif…]()
+<img width="2600" height="782" alt="68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" src="https://github.com/user-attachments/assets/9c17f9e5-de24-4585-b473-698632e30c7c" />
 
-
+#  👨‍💻 Hello World! I'm Surya Omar  
 
 - 🎓 AI Enthusiast and Student with a passion for exploring the limitless possibilities of artificial intelligence.
 - 🧠 Constantly learning and challenging myself to solve real-world problems using machine learning and AI.
