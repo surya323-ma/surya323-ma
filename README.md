@@ -18,12 +18,13 @@
 - 👥 Excited to collaborate on innovative AI-driven projects that make a difference.
 
 ## 📫 Reach Me
-- ✉️ Email: suryaomar323@gmail.com
-- 🌐 LinkedIn/Portfolio: www.linkedin.com/in/surya-omar-3538a527b
-- 🧑‍💻Leetcode:https://leetcode.com/u/Surya323/
-- 🧑‍💻GFG:https://www.geeksforgeeks.org/user/suryaomar323/
-- 🧑‍💻
-- 🧑‍💻
+- ✉️# Email: suryaomar323@gmail.com
+- 🌐 # LinkedIn/Portfolio: www.linkedin.com/in/surya-omar-3538a527b
+- 🧑‍💻# Leetcode:https://leetcode.com/u/Surya323/
+- 🧑‍💻# GFG:https://www.geeksforgeeks.org/user/suryaomar323/
+- 🧑‍💻# Codolio:https://codolio.com/profile/surya323
+- 🧑‍💻https://www.codechef.com/users/suryaomar323
+- 👨‍💻# HackerRank:https://www.hackerrank.com/profile/suryaomar323
 - 
 
 ---
