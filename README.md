@@ -1,7 +1,5 @@
 # 👋 Hello World! I'm Surya Omar  
 
-![GitBanner](https://github.com/user-attachments/assets/20d7763a-6c79-41a8-8052-c414778ceabd)
-
 - 🎓 AI Enthusiast and Student with a passion for exploring the limitless possibilities of artificial intelligence.
 - 🧠 Constantly learning and challenging myself to solve real-world problems using machine learning and AI.
 
