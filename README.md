@@ -1,6 +1,6 @@
 
+![images](https://github.com/user-attachments/assets/66ea89e8-ed59-4d28-824c-f546fcb9fe01)
 
-<img width="2600" height="782" alt="68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" src="https://github.com/user-attachments/assets/9c17f9e5-de24-4585-b473-698632e30c7c" />
 
 #  👨‍💻 Hello World! I'm Surya Omar  
 
