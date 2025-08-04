@@ -9,14 +9,15 @@
 - 🌱 Currently learning: MLOps and Generative AI
 
 
-
 ## 🛠 Skills
 - 🤖 Proficient in Python, TensorFlow, and Java .
 - 📊 Knowledgeable in Data science, neural networks, Data Structures and Algorithms.
 - 🔍 Experienced with building and testing AI models on exciting projects.
 
 ## 🚀 Currently Working On
-- 📝 Research on Data Structures and Algorithms.
+
+- 🔍 Building and testing AI models on exciting real-world datasets  
+-📝 Ongoing research in Data Structures and Algorithms  
 
 ## 💡 Fun Fact
 - 🎮 AI isn’t just about work; I love experimenting with AI in gaming and art!
