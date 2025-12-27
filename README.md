@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/surya-omar">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;ML%20Engineer;Competitive%20Programmer;OpenCV%20Projects;Python%20%7C%20C++%20%7C%20Java&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20 Science;ML%20Engineer;Competitive%20Programmer;OpenCV%20Projects;Python%20%7C%20C++%20%7C%20Java&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
