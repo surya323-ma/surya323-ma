@@ -36,16 +36,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🚀 Currently Working On
 
-- 🔍 Building and testing AI models on exciting real-world datasets  
--📝 Ongoing research in Data Structures and Algorithms  
+## 🚀 Currently Working On
+- 🔍 Building, training, and testing AI models on exciting real-world datasets  
+- 📝 Strengthening problem-solving skills through continuous practice in **Data Structures & Algorithms**
 
 ## 💡 Fun Fact
-- 🎮 AI isn’t just about work; I love experimenting with AI in gaming and art!
+- 🎮 AI isn’t just work for me — I enjoy experimenting with AI in **gaming, art, and creative projects**
 
 ## 🤝 Collaboration Goals
-- 👥 Excited to collaborate on innovative AI-driven projects that make a difference.
+- 👥 Open to collaborating on innovative, AI-driven projects that aim to create real-world impact
+
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surya.omar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaomar323) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surya-omar-3538a527b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaomar323@gmail.com) <p align="left">
