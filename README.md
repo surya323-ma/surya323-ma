@@ -23,8 +23,8 @@
 - 👥 Excited to collaborate on innovative AI-driven projects that make a difference.
 
 ## 📫 Reach Me
-- ✉️ Email: suryaomar323@gmail.com
-- 🌐  LinkedIn/Portfolio: www.linkedin.com/in/surya-omar-3538a527b
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surya.omar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaomar323) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surya-omar-3538a527b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaomar323@gmail.com) 
+
 - 🧑‍💻 Leetcode:https://leetcode.com/u/Surya323/
 - 🧑‍💻 GFG:https://www.geeksforgeeks.org/user/suryaomar323/
 - 🧑‍💻 Codolio:https://codolio.com/profile/surya323
