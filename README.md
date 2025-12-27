@@ -23,7 +23,23 @@
 - 👥 Excited to collaborate on innovative AI-driven projects that make a difference.
 
 ## 📫 Reach Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surya.omar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaomar323) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surya-omar-3538a527b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaomar323@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surya.omar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaomar323) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surya-omar-3538a527b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaomar323@gmail.com) <p align="left">
+  <a href="https://leetcode.com/u/Surya323/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/suryaomar323" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/surya323" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-0A0A0A?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/suryaomar323" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/suryaomar323/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
 - 🧑‍💻 Leetcode:https://leetcode.com/u/Surya323/
 - 🧑‍💻 GFG:https://www.geeksforgeeks.org/user/suryaomar323/
