@@ -34,10 +34,18 @@
 - 🧑‍💻https://www.codechef.com/users/suryaomar323
 - 👨‍💻 HackerRank:https://www.hackerrank.com/profile/suryaomar323
 - 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surya323-ma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=surya323-ma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
 "Learning today to shape tomorrow with AI." 🚀✨
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=surya323-ma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!---
