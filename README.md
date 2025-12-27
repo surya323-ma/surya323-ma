@@ -1,9 +1,6 @@
 
    ![images](https://github.com/user-attachments/assets/66ea89e8-ed59-4d28-824c-f546fcb9fe01)
    <p align="center">
-  <img src="![Uploading WhatsApp Image 2025-09-09 at 20.23.16_bf7ae127.jpg…]()
-" width="180" style="border-radius:50%;" />
-</p>
 
 #  Hi, I'm **Surya Omar**  
 
