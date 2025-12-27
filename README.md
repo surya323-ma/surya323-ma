@@ -1,6 +1,8 @@
 
    ![images](https://github.com/user-attachments/assets/66ea89e8-ed59-4d28-824c-f546fcb9fe01)
    <p align="center">
+   ![profile](https://github.com/user-attachments/assets/6021e3a9-a9d8-4cb8-827a-f41efe88c9c6)
+
 
 #  Hi, I'm **Surya Omar**  
 
