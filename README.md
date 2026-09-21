@@ -80,7 +80,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=surya323-ma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</td>
+
 <td valign="top" align="center" width="35%">
 
 <a href="https://codolio.com/profile/surya323">
