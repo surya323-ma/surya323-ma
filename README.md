@@ -81,10 +81,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<td valign="top" align="center" width="35%">
+<td valign="top" align="center" width="15%">
 
 <a href="https://codolio.com/profile/surya323">
-  <img src="https://raw.githubusercontent.com/surya323-ma/surya323-ma/main/assets/codolio-card.png" width="500" alt="Codolio Card" />
+  <img src="https://raw.githubusercontent.com/surya323-ma/surya323-ma/main/assets/codolio-card.png" width="50" alt="Codolio Card" />
 </a>
 
 </td>
