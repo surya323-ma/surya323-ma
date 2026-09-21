@@ -84,7 +84,7 @@
 <td valign="top" align="center" width="35%">
 
 <a href="https://codolio.com/profile/surya323">
-  <img src="https://raw.githubusercontent.com/surya323-ma/surya323-ma/main/assets/codolio-card.png" width="250" alt="Codolio Card" />
+  <img src="https://raw.githubusercontent.com/surya323-ma/surya323-ma/main/assets/codolio-card.png" width="500" alt="Codolio Card" />
 </a>
 
 </td>
