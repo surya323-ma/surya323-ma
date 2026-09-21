@@ -81,13 +81,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<td valign="top" align="center" width="15%">
-
-<a href="https://codolio.com/profile/surya323">
-  <img src="https://raw.githubusercontent.com/surya323-ma/surya323-ma/main/assets/codolio-card.png" width="50" alt="Codolio Card" />
-</a>
-
-</td>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=surya323-ma&limit=5&theme=dark&combine_all_yearly_contributions=true)
