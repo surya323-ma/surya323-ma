@@ -32,6 +32,9 @@
 ---
 
 ## 🛠️ Tech Stack
+<!-- ============ TECH STACK (animated orbit image) ============ -->
+<div align="center">
+<img src="./assets/stack.svg?v=1" alt="Tech stack: Python, Java, C, JavaScript, React, Next.js, Node.js, Django, FastAPI, Flutter, TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, OpenCV, MongoDB, MySQL, Firebase, Git, GitHub, Postman" width="100%" />
 
 <div align="center">
 
