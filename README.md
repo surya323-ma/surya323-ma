@@ -71,8 +71,8 @@
 <!-- STATS-START -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-90-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
-<img src="https://img.shields.io/badge/Commits-1%2C181-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/Projects-91-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
+<img src="https://img.shields.io/badge/Commits-1%2C185-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
 <img src="https://img.shields.io/badge/Stars-8-e3b341?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/Followers-2-8957e5?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
 
@@ -80,12 +80,12 @@
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-26.0%25-DA5B0B?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 <img src="https://img.shields.io/badge/C%2B%2B-3.7%25-F34B7D?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Cython-3.4%25-C9A227?style=for-the-badge&labelColor=0d1117" alt="Cython" />
-<img src="https://img.shields.io/badge/C-0.6%25-555555?style=for-the-badge&labelColor=0d1117&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-0.6%25-D4B800?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C-0.6%25-555555?style=for-the-badge&labelColor=0d1117&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/HTML-0.5%25-E34C26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-0.2%25-563D7C?style=for-the-badge&labelColor=0d1117&logo=css3&logoColor=white" alt="CSS" />
 
-<img src="https://img.shields.io/badge/Last%20Push-surya323--ma%20%7C%2013%20Oct%202026%2C%2006%3A46%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
+<img src="https://img.shields.io/badge/Last%20Push-NeuroHand--3D--Intelligent--Gesture--Based--3D--Interaction%20%7C%2013%20Oct%202026%2C%2008%3A35%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
 
 </div>
 <!-- STATS-END -->
