@@ -61,6 +61,19 @@
 <img src="https://streak-stats.demolab.com?user=surya323-ma&theme=tokyonight&background=0d1117&border=30363d&ring=ff354f&fire=ff354f&currStreakLabel=247bff&v=2" alt="GitHub streak" />
 
 </div>
+
+### 📈 Live Repo Stats (auto-updated on every push)
+
+<!-- STATS-START -->
+| Metric | Count |
+|---|---|
+| Total projects (public repos) | 0 |
+| Total commits (this repo) | 0 |
+| Last commit | - |
+
+_Last updated: pending first push_
+<!-- STATS-END -->
+
 ---
 
 ## 🏆 Coding Profiles
