@@ -71,10 +71,7 @@
 <!-- STATS-START -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-12-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
-<img src="https://img.shields.io/badge/Commits-689-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
-
-<img src="https://img.shields.io/badge/Last%20Commit-13%20Oct%202026%2C%2006%3A30%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Commit" />
+<img src="https://img.shields.io/badge/Live%20Stats-updating%20soon-30363d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Live stats" />
 
 </div>
 <!-- STATS-END -->
