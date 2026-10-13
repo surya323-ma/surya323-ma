@@ -38,7 +38,7 @@
 
 <img src="./assets/stack.svg?v=1" alt="Tech stack: Python, Java, C, JavaScript, React, Next.js, Node.js, Django, FastAPI, Flutter, TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, OpenCV, MongoDB, MySQL, Firebase, Git, GitHub, Postman" width="100%" />
 
-<br/>
+</div>
 
 ---
 
@@ -62,16 +62,21 @@
 
 </div>
 
-### 📈 Live Repo Stats (auto-updated on every push)
+<div align="center">
+
+### 📈 Live Repo Stats
+
+</div>
 
 <!-- STATS-START -->
-| Metric | Count |
-|---|---|
-| Total projects (public repos) | 0 |
-| Total commits (this repo) | 0 |
-| Last commit | - |
+<div align="center">
 
-_Last updated: pending first push_
+<img src="https://img.shields.io/badge/Projects-12-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
+<img src="https://img.shields.io/badge/Commits-689-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
+
+<img src="https://img.shields.io/badge/Last%20Commit-13%20Oct%202026%2C%2006%3A30%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Commit" />
+
+</div>
 <!-- STATS-END -->
 
 ---
