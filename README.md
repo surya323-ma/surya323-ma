@@ -55,13 +55,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=surya323-ma&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=247bff&icon_color=ff354f&hide_border=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=247bff" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=surya323-ma&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=247bff&icon_color=ff354f&hide_border=false&count_private=true&v=2" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya323-ma&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=247bff&v=2" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=surya323-ma&theme=tokyonight&background=0d1117&border=30363d&ring=ff354f&fire=ff354f&currStreakLabel=247bff" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=surya323-ma&theme=tokyonight&background=0d1117&border=30363d&ring=ff354f&fire=ff354f&currStreakLabel=247bff&v=2" alt="GitHub streak" />
 
 </div>
-
 ---
 
 ## 🏆 Coding Profiles
