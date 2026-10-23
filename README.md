@@ -71,8 +71,8 @@
 <!-- STATS-START -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-93-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
-<img src="https://img.shields.io/badge/Commits-1%2C210-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/Projects-94-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
+<img src="https://img.shields.io/badge/Commits-1%2C212-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
 <img src="https://img.shields.io/badge/Stars-8-e3b341?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/Followers-2-8957e5?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
 
@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/HTML-0.5%25-E34C26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-0.2%25-563D7C?style=for-the-badge&labelColor=0d1117&logo=css3&logoColor=white" alt="CSS" />
 
-<img src="https://img.shields.io/badge/Last%20Push-AirSymphony--AI--Gesture--Based--Virtual--Instruments%20%7C%2022%20Oct%202026%2C%2008%3A57%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
+<img src="https://img.shields.io/badge/Last%20Push-m.tech--assesment%20%7C%2024%20Oct%202026%2C%2012%3A54%20AM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
 
 </div>
 <!-- STATS-END -->
