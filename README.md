@@ -72,7 +72,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Projects-99-247bff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Projects" />
-<img src="https://img.shields.io/badge/Commits-1%2C257-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/Commits-1%2C259-ff354f?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
 <img src="https://img.shields.io/badge/Stars-8-e3b341?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/Followers-2-8957e5?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
 
@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/HTML-0.5%25-E34C26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-0.2%25-563D7C?style=for-the-badge&labelColor=0d1117&logo=css3&logoColor=white" alt="CSS" />
 
-<img src="https://img.shields.io/badge/Last%20Push-Metro--Exit--Counter--v2.0%20%7C%2025%20Nov%202026%2C%2009%3A58%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
+<img src="https://img.shields.io/badge/Last%20Push-Leetcode%20%7C%2028%20Nov%202026%2C%2001%3A36%20PM%20IST-30363d?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=white" alt="Last Push" />
 
 </div>
 <!-- STATS-END -->
